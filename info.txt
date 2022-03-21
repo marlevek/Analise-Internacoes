@@ -1,0 +1,8 @@
+Relação do Número de Internações Realizadas por Espcialidades no HC-UFPE
+
+Campo	              Valor
+Fonte	              https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-nordeste/hc-ufpe/acesso-a-informacao/dados-abertos-2
+Autor	              Setor de Regulação e Avaliação em Saúde
+Mantenedor	          Hospital das Clínicas - UFPE
+Última Atualiz	      3 de Março de 2022, 11:34 (UTC-03:00)
+Criado	              18 de Outubro de 2021, 09:27 (UTC-03:00)
